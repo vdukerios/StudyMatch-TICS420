@@ -53,7 +53,7 @@ La planificación detallada por Sprints, el levantamiento de requerimientos y ot
 ---
 
 ### Guía de Inicio Rápido (Modo Desarrollo)
-1.  Clonar el repositorio: `git clone [url-del-repo]`
+1.  Clonar el repositorio: `git clone https://github.com/vdukerios/StudyMatch-TICS420`
 2.  Configurar variables de entorno en archivo `.env`.
 3.  Levantar el entorno con Docker: `docker-compose up --build`
 4.  Acceder a la aplicación en: `http://localhost:3000`
