@@ -48,7 +48,7 @@ Para garantizar la escalabilidad y el cumplimiento de los requerimientos de la a
 ## Documentación del Proyecto
 La planificación detallada por Sprints, el levantamiento de requerimientos y otros documentos de diseño se encuentran disponibles en el siguiente enlace:
 
-📂 **[Acceso a Carpeta de Documentación en Drive](#https://drive.google.com/drive/folders/1WjdM_qzehuyMol1MiQYk8Rve7ZjGJrnB?usp=sharing)** 
+ **[Acceso a Carpeta de Documentación en Drive: https://drive.google.com/drive/folders/1WjdM_qzehuyMol1MiQYk8Rve7ZjGJrnB?usp=sharing]** 
 
 ---
 
